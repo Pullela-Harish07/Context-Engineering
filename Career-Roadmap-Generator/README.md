@@ -106,5 +106,3 @@ Then set the environment variable before running:
 export GOOGLE_API_KEY="your-api-key-here"
 streamlit run app.py
 ```
-
-e
