@@ -1,0 +1,29 @@
+output will be visible in console:
+
+======================================================================
+📧 EMAIL NOTIFICATION - DEMO MODE
+======================================================================
+
+📨 PATIENT EMAIL:
+To: vikram@gmail.com
+Subject: Appointment Confirmation - APT-74773145
+
+Dear vikram,
+Your appointment is confirmed with Dr. Dr. Rajesh Kumar
+Date: 2026-01-11 at 09:00 AM
+Hospital: Apollo Hospital
+Fee: ₹1500
+
+----------------------------------------------------------------------
+
+📨 DOCTOR EMAIL:
+To: rajesh.kumar@apollo.com
+Subject: New Appointment - APT-74773145
+
+Dear Dr. Dr. Rajesh Kumar,
+New appointment with vikram
+Date: 2026-01-11 at 09:00 AM
+Contact: 9288909889
+
+======================================================================
+
